@@ -142,3 +142,23 @@ footer {
   padding: 20px;
   color: #666;
 }
+/* Participants list inside activity cards */
+.activity-card h5 {
+  margin-top: 12px;
+  margin-bottom: 8px;
+  color: #444;
+  font-size: 15px;
+}
+
+.activity-card .participants {
+  list-style: disc inside;
+  padding-left: 10px;
+  margin-top: 5px;
+  margin-bottom: 0;
+  color: #555;
+  font-size: 14px;
+}
+
+.activity-card .participants li {
+  margin-bottom: 4px;
+}
